@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# TODO-APP with Reactjs
 
-This project was bootstrapped with [Create React App]
+
 
 ## Available Scripts
 
